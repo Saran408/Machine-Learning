@@ -1,5 +1,5 @@
 # Machine Learning Specialization
-- ### [Website](https://arjunan-k.github.io/Machine-Learning-Specialization-Coursera-Notes/) & [Pdf](https://github.com/arjunan-k/Machine-Learning-Specialization-Coursera-Notes/blob/main/Files/Complete.pdf)
+- ### [Pdf](https://github.com/arjunan-k/Machine-Learning-Specialization-Coursera-Notes/blob/main/Files/Complete.pdf)
 - ### [C1 - Supervised Machine Learning: Regression and Classification](https://github.com/arjunan-k/Machine-Learning-Specialization-Coursera-Notes/blob/main/Files/Course%201.pdf)
 - ### [C2 - Advanced Learning Algorithms](https://github.com/arjunan-k/Machine-Learning-Specialization-Coursera-Notes/blob/main/Files/Course%202.pdf)
 - ### [C3 - Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/arjunan-k/Machine-Learning-Specialization-Coursera-Notes/blob/main/Files/Course%203.pdf)
